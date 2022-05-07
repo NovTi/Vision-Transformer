@@ -1,4 +1,4 @@
-### This is the Vision Transformer model based Dolphin-Whale classifier
+### This is the Vision Transformer based Dolphin-Whale classifier
 
 ### Finished training the ViT model
 
